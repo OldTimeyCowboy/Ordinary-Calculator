@@ -1,2 +1,2 @@
-# ordinary-calculator
+# Ordinary-Calculator
 Just a simple calculator
